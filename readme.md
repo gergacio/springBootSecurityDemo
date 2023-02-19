@@ -1,1 +1,1 @@
-Secure simple api with Basic Auth, Form Based Auth
+Demo project for Basic Auth, Users Roles and Authorities,Permission Based Authentication, Cross Site Request Forgery, Form Based Authentication
