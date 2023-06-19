@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Demo project for Basic Auth, Users Roles and Authorities,Permission Based Authentication, Cross Site Request Forgery, Form Based Authentication, Database Authentication
-=======
 # SpringSecurityDemo App
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
@@ -54,4 +51,4 @@ Project is: _in progress_
 
 ## Contact
 Created by [@GGG](http://3gbg.s3-website.eu-west-2.amazonaws.com/#intro) - feel free to contact me!
->>>>>>> d1f9797 (update readme)
+
